@@ -1,6 +1,6 @@
 
-# Portfolio
-## Violet's GitHub Repository: A Professional Portfolio
+# E-Portfolio
+## Violet's GitHub Portfolio
 
 
 1. #### [📄 Resume](https://github.com/VioletGabales/Portfolio/blob/main/Violet's%20Resume.pdf)
