@@ -2,6 +2,11 @@
 # E-Portfolio
 ## Violet's GitHub Portfolio
 
+## Table of Contents
+- [Resume](Resume)
+- [Change Management Practices](#ChangeManagementPractices)
+- [Process Improvement Toolkit](#ProcessImprovementToolkit)
+- [Optimizing Workplace Motivation and Performance](#OptimizingWorkplaceMotivationandPerformance)
 
 1. #### [📄 Resume](https://github.com/VioletGabales/Portfolio/blob/main/Violet's%20Resume.pdf)
 
