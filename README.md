@@ -15,7 +15,7 @@
 ### [📄 Resume](https://github.com/VioletGabales/Portfolio/blob/main/Violet's%20Resume.pdf) 
 
 
-My resume includes my headshot, contact information, education, experience, and skills. You will notice that in June 2024, I started my position as an organizational development consulting intern within BerryDunn's Medicaid Practice Group. Alongside my team, I've had the opportunity to expand my knowledge, skills, and experience in change management. I am happy to share that I will be joining BerryDunn full-time in July 2025. 
+In my resume, I share my education, relevant work experience, and skills. You will notice that in June 2024, I started my position as an organizational development consulting intern within BerryDunn's Medicaid Practice Group. Alongside my team, I've had the opportunity to expand my knowledge, skills, and experience in change management. I am happy to share that I will be joining BerryDunn full-time in July 2025. 
 ***
 ## Projects
 1. #### [📄 Change Management Practices](https://github.com/VioletGabales/Portfolio/blob/main/DMAIC%20%26%20ADKAR%20Basics%20Handout%20V2.%209.9.24%20(1).pdf)
