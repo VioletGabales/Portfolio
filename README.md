@@ -1,6 +1,6 @@
 
 # E-PORTFOLIO
-# Violet's GitHub Portfolio
+# Violet's Portfolio
 
 ### Contact Information
 💌 Violetmgabales@gmail.com
@@ -15,7 +15,7 @@ My resume includes my headshot, contact information, education, experience, and 
 ## Projects
 1. #### [📄 Change Management Practices](https://github.com/VioletGabales/Portfolio/blob/main/DMAIC%20%26%20ADKAR%20Basics%20Handout%20V2.%209.9.24%20(1).pdf)
 
-In collaboration with my team's illustrative artist, I developed an overview of our change management team's approach to process improvement. The document provides an overview of Lean Six Sigma methodology, which we use to drive all change initiatives, as well as Prosci's ADKAR (Awareness, Desire, Knowledge, Ability, Reinforcement) communications approach to managing change. ***Note: As this is an internal document from my work at BerryDunn, please do not download or share the document outside of ISM 6002. Thank you!***
+In collaboration with my team's illustrator, I developed an overview of our change management team's approach to process improvement. The document provides an overview of Lean Six Sigma methodology, which we use to drive all change initiatives, as well as Prosci's ADKAR (Awareness, Desire, Knowledge, Ability, Reinforcement) communications approach to managing change. ***Note: As this is an internal document from my work at BerryDunn, please do not download or share the document outside of ISM 6002. Thank you!***
 ***
 2. #### [📄 Process Improvement Toolkit](https://github.com/VioletGabales/Portfolio/blob/main/Process%20Improvement%20Toolkit.pdf)
 
