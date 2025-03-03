@@ -26,6 +26,7 @@ Working alongside my team's illustrator, I created an overview of our change man
 ***
 2. #### [📄 Process Improvement Toolkit](https://github.com/VioletGabales/Portfolio/blob/main/Process%20Improvement%20Toolkit.pdf)
 
+
 At the start of my internship, I collaborated with my OCM workstream lead to develop a process improvement toolkit for internal use at BerryDunn. The document covers the fundamentals of process improvement, including Lean Six Sigma's DMAIC methodology, practical tools and templates, and guidance on right-sizing projects.***Note: As this is an internal document from my work at BerryDunn, please do not download or share the document outside of ISM 6002. Thank you!***
 ***
 3. #### [📄 Optimizing Workplace Motivation and Performance](https://github.com/VioletGabales/Portfolio/blob/main/Optimizing%20Workplace%20Performance-The%20Effects%20of%20Leadership%20Style%20and%20Conflict.pdf)
