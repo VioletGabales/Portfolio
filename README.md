@@ -5,8 +5,7 @@
 ### Contact Information
 💌 Violetmgabales@gmail.com
 
-📞 (916)955-7823
-
+🌐 https://www.linkedin.com/in/violet-gabales/
 
 #### [📄 Resume](https://github.com/VioletGabales/Portfolio/blob/main/Violet's%20Resume.pdf) 
 
