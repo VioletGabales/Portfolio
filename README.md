@@ -19,6 +19,8 @@ In my resume, I highlight my education, relevant work experience, and skills. In
 ***
 ## Projects
 1. #### [📄 Change Management Practices](https://github.com/VioletGabales/Portfolio/blob/main/DMAIC%20%26%20ADKAR%20Basics%20Handout%20V2.%209.9.24%20(1).pdf)
+![DMAICCapture](https://github.com/user-attachments/assets/38d8fd9e-6253-43c3-99e3-78fe4e907a6a)
+
 
 Working alongside my team's illustrator, I created an overview of our change management team's approach to process improvement. The document outlines our use of Lean Six Sigma methodology to drive change initiatives and details how we apply Prosci's ADKAR model (Awareness, Desire, Knowledge, Ability, Reinforcement) for effective change management communication. ***Note: As this is an internal document from my work at BerryDunn, please do not download or share the document outside of ISM 6002. Thank you!***
 ***
