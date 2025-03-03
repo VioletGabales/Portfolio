@@ -12,7 +12,7 @@
 
 🌐 https://www.linkedin.com/in/violet-gabales/
 ***
-### [📄 Resume](https://github.com/VioletGabales/Portfolio/blob/main/Violet's%20Resume.pdf) 
+### [📄 Resume](https://github.com/VioletGabales/Portfolio/blob/main/Violet's%20Resume%20(1).pdf) 
 
 
 In my resume, I highlight my education, relevant work experience, and skills. In June 2024, I began my role as an Organizational Development Consulting Intern with BerryDunn's Medicaid Practice Group, where I’ve gained valuable experience in change management. I'm excited to share that I will be joining BerryDunn as a full-time staff consultant in July 2025.
