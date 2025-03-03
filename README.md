@@ -1,5 +1,6 @@
 
-# VIOLET'S E-PORTFOLIO
+# E-PORTFOLIO
+## *Violet Gabales*
 
 
 ### Contact Information
