@@ -6,8 +6,8 @@
 💌 Violetmgabales@gmail.com
 
 🌐 https://www.linkedin.com/in/violet-gabales/
-
-#### [📄 Resume](https://github.com/VioletGabales/Portfolio/blob/main/Violet's%20Resume.pdf) 
+***
+### [📄 Resume](https://github.com/VioletGabales/Portfolio/blob/main/Violet's%20Resume.pdf) 
 
 
 My resume includes my headshot, contact information, education, experience, and skills. You will notice that in June 2024, I started my position as an organizational development consulting intern within BerryDunn's Medicaid Practice Group. Alongside my team, I've had the opportunity to expand my knowledge, skills, and experience in change management. I am happy to share that I will be joining BerryDunn full-time in July 2025. 
