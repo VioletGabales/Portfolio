@@ -1,6 +1,10 @@
 
+
+
 # E-PORTFOLIO
-## *Violet Gabales*
+![AAACapture](https://github.com/user-attachments/assets/372dbcfc-6a40-4f18-8156-52420e49c0a7)
+
+![Gabales-Violet_HEADSHOT_Cropped-Square-576x576px](https://github.com/user-attachments/assets/99d68a76-e46d-4212-b0fe-e14b6b66da23)
 
 
 ### Contact Information
