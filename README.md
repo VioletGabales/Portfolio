@@ -1,6 +1,6 @@
 
-# E-PORTFOLIO
-# Violet's Portfolio
+# VIOLET'S E-PORTFOLIO
+
 
 ### Contact Information
 💌 Violetmgabales@gmail.com
